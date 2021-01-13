@@ -1,0 +1,5 @@
+{
+  "debug_level": "INFO",
+  "base_url": "https://github.com/freeipa-pr-ci2/freeipa/pull/",
+  "github_user": "miskopo"
+}
